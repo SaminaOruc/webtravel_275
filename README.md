@@ -6,7 +6,10 @@ Instaliranje npm paketa u frontend folderu: <br />
 cd frontend && npm install<br />
 Instaliranje npm paketa u backend folderu: <br />
 cd backend && npm install<br />
-Pokrenite Vaš MySQL server 
+Pokrenite Vaš MySQL server i pokrenite sql skriptu dbtravel_275<br />
+Admin profil:<br/>
+email: admin@gmail.com <br/>
+sifra: Admin12345678<br/>
 ## Opis aplikacije 
 Ova aplikacija sadrži sljedeće funkcionalnosti:<br />
 Postoje dvije korisničke uloge: Admin i User<br />
